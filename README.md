@@ -7,26 +7,32 @@
   <br><br>
 </h1>
 
-## Introduction 
+<h2>Introduction</h2>
+<p>This repository was created with the intention of helping developers master their concepts in 
+JavaScript. It is not a requirement, but a guide for future studies. It is based on an article 
+written by Stephen Curtis and 
+<a href="https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1">
+you can read it here</a> ).</p>
 
-This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by Stephen Curtis and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+<p><b>🚀 Considered by GitHub as one of the 
+<a href="https://blog.github.com/2018-12-13-new-open-source-projects/">top open source projects of 2018!</a></b></p>
 
-**🚀 Considered by GitHub as one of the [top open source projects of 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+<h2>Community</h2>
+<p>Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate 
+the repo into your native language, please feel free to do so.</p>
 
-## Community
+<p>All the translations for this repo will be listed below:</p>
+<ul>
+  <li><a href="https://github.com/amrsekilly/33-js-concepts">اَلْعَرَبِيَّةُ‎ (Arabic)</a> — Amr Elsekilly</li>
+  <li><a href="https://github.com/thewebmasterp/33-js-concepts">Български (Bulgarian)</a> - thewebmasterp</li>
+  <li><a href="https://github.com/stephentian/33-js-concepts">汉语 (Chinese)</a> — Re Tian</li>
+  <li><a href="https://github.com/tiagoboeing/33-js-concepts">Português do Brasil (Brazilian Portuguese)</a> — Tiago Boeing</li>
+  <li><a href="https://github.com/yjs03057/33-js-concepts.git">한국어 (Korean)</a> — Suin Lee</li>
+  <li><a  href="https://github.com/adonismendozaperez/33-js-conceptos">Español (Spanish)</a> — Adonis Mendoza</li>
+  <li><a href="https://github.com/ilker0/33-js-concepts">Türkçe (Turkish)</a> — İlker Demir</li>
+  <li><a href="https://github.com/gumennii/33-js-concepts">русский язык (Russian)</a> — Mihail Gumennii</li>
+</ul>
 
-Feel free to submit a PR by adding a link to your own recaps or reviews. If you want to translate the repo into your native language, please feel free to do so.
-
-All the translations for this repo will be listed below:
-
-- [اَلْعَرَبِيَّةُ‎ (Arabic)](https://github.com/amrsekilly/33-js-concepts) — Amr Elsekilly
-- [Български (Bulgarian)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
-- [汉语 (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Português do Brasil (Brazilian Portuguese)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [한국어 (Korean)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Español (Spanish)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Türkçe (Turkish)](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [русский язык (Russian)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
 - [Tiếng Việt (Vietnamese)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
 - [Polski (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
 - [فارسی (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
